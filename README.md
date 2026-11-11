@@ -1,14 +1,18 @@
 # Amir Emad Marvasti - Artist-in-Action Application Portfolio
 
+Opened 2025-07-13.
+
 ## Overview
-This is a professional portfolio website created for the Artist-in-Action residency application at the Art and History Museums of Maitland. The portfolio showcases oil paintings created using a unique "cloud painting" technique, along with accompanying poetry and detailed application materials.
+This is a portfolio website created for the Artist-in-Action residency application at the Art and History Museums of Maitland. The portfolio showcases oil paintings made with a cloud-painting technique, along with accompanying poetry and the application materials.
+
+This portfolio was prepared for the application deadline of July 11, 2025.
 
 ## Features
-- **Professional Application Layout**: Clean, elegant design focused on the residency application requirements
-- **Portfolio Gallery**: Showcases 5 recent oil paintings with descriptions and integrated poetry
-- **Complete Application Sections**: All required information for the Artist-in-Action program
-- **Responsive Design**: Optimized for both desktop and mobile viewing
-- **Interactive Elements**: Subtle animations and hover effects that enhance without distracting
+- **Application layout**: a single page organized around the residency application
+- **Portfolio gallery**: five oil paintings with descriptions and poetry
+- **Application sections**: the materials the program asked for
+- **Responsive layout**: desktop and mobile
+- **Interactive elements**: hover and light motion on the paintings
 
 ## Portfolio Contents
 1. **Venus** - Oil on canvas exploring beauty, desire, and the subconscious
@@ -27,17 +31,16 @@ This is a professional portfolio website created for the Artist-in-Action reside
 - Contact Information
 
 ## Technical Details
-- **HTML5**: Semantic structure for accessibility
-- **CSS3**: Modern styling with glassmorphic effects
-- **JavaScript**: Minimal, focused functionality
-- **Responsive**: Mobile-first design approach
-- **Performance**: Optimized images and efficient code
+- **HTML5**: page structure
+- **CSS3**: layout, including the glass effects
+- **JavaScript**: gallery and section behavior
+- **Responsive**: usable on a phone and on a desktop
+- **Performance**: optimized images
 
 ## Usage
 1. Open `index.html` in a web browser
-2. Navigate through the sections to view application materials
-3. Click on paintings to view details and read accompanying poems
-4. All application requirements are clearly organized and easy to find
+2. Move through the sections to read the application
+3. Select a painting to read the note and the poem
 
 ## Contact
 - **Name**: Amir Emad Marvasti
@@ -45,6 +48,3 @@ This is a professional portfolio website created for the Artist-in-Action reside
 - **Phone**: (407) 227-7492
 - **Website**: qualiadualia.com
 - **Location**: Orlando, FL
-
-## Application Deadline
-July 11, 2025 (midnight) 
